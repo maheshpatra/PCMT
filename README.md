@@ -113,5 +113,5 @@ To learn more about React Native, take a look at the following resources:
  Contact 
  For any inquiries, please contact [maheshpatra53@gmail.com]. 
   
- Happy Diaams!
+ Happy PCMT!
 
