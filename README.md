@@ -1,3 +1,30 @@
+# PCMT - Collage App
+
+PCMT is a comprehensive mobile application designed for college students to streamline various tasks such as accessing their exam routines, syllabus, and making semester fee payments. With PCMT, students can conveniently manage their academic schedules and financial transactions right from their smartphones.
+
+## Features
+
+- **Student Login**: Secure login system for students to access personalized information.
+- **Exam Routine**: View upcoming exam schedules for different subjects and semesters.
+- **Syllabus**: Access course syllabus for each semester and subject.
+- **Semester Fee Payment**: Make semester fee payments online securely.
+- **Profile Management**: Update personal information, contact details, and profile picture.
+- **Push Notifications**: Receive alerts for important events, fee payment deadlines, and exam updates.
+- **Attendance Tracker**: Keep track of attendance records for each course.
+- **Document Repository**: Store and access important documents such as certificates, study materials, and assignments.
+- **Feedback System**: Provide feedback on courses, faculty, and college facilities.
+- **Helpdesk Support**: Get assistance from college administration through the app.
+
+## Technologies Used
+
+- **React Native**: For building the mobile app.
+- **Firebase**: For user authentication and real-time database management.
+- **Stripe API**: For processing secure online payments.
+- **Push Notifications Service**: Implement a push notification service like Firebase Cloud Messaging (FCM) or OneSignal.
+
+## Installation
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
